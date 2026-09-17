@@ -89,4 +89,4 @@ https://www.figma.com/design/bvhm8FVphlRlFaJqu7ZXaL/SVG-Icons?node-id=0-1&p=f&t=
  **College: Kamaraj College**
 
 
- **Project: SVG ICONS ** 
+ **Project: SVG ICONS** 
