@@ -66,7 +66,7 @@ https://www.figma.com/design/bvhm8FVphlRlFaJqu7ZXaL/SVG-Icons?node-id=0-1&p=f&t=
 👨‍💻 **Simple and consistent visual style**
 
 
-🌈 ### Project Theme
+ ### Project Theme 🌈
 
 **The project uses a light blue, white, and soft pastel color palette to create a clean and welcoming visual experience. The consistent rounded-square backgrounds and white line icons make each icon easy to recognize and suitable for modern digital interfaces.**
 
