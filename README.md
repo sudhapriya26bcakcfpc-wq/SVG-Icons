@@ -14,7 +14,7 @@ https://www.figma.com/design/bvhm8FVphlRlFaJqu7ZXaL/SVG-Icons?node-id=0-1&p=f&t=
 
 
 
-🎨 ### SVG Icons Project Description
+### SVG Icons Project Description 🎨
 
 **SVG Icons – Colorful & Modern Icon Collection**
 
@@ -39,7 +39,7 @@ https://www.figma.com/design/bvhm8FVphlRlFaJqu7ZXaL/SVG-Icons?node-id=0-1&p=f&t=
 
 🖌️ **Easy to Customize – Colors, size, and styles can be easily changed.**
 
-✨ ### Key Features
+### Key Features ✨
 
 
 🎨 **Attractive and colorful design**
