@@ -4,23 +4,26 @@
 ### Prototype Link :
 
 
-https://www.figma.com/proto/KcZiyfEfYLAj8ZVd12tLLJ/Shopping-Cart?node-id=0-1&t=mvoPpmMxigcI7Ull-1
+https://www.figma.com/proto/bvhm8FVphlRlFaJqu7ZXaL/SVG-Icons?node-id=0-1&t=hMbR9ib6P4fDBeBe-1
 
 
 ### Design Link : 
 
 
-https://www.figma.com/design/KcZiyfEfYLAj8ZVd12tLLJ/Shopping-Cart?node-id=0-1&p=f&t=mvoPpmMxigcI7Ull-0
+https://www.figma.com/design/bvhm8FVphlRlFaJqu7ZXaL/SVG-Icons?node-id=0-1&p=f&t=hMbR9ib6P4fDBeBe-0
 
 
 
 🎨 SVG Icons Project Description
 
 SVG Icons – Colorful & Modern Icon Collection
-
-SVG Icons is a creative and user-friendly icon collection designed to provide clean, attractive, and scalable icons for websites, mobile applications, and digital projects. The project includes commonly used icons such as Home, Search, Person, Shopping Cart, Notifications, Location, Settings, Delete, Heart, Book, Lock, Phone, Mail, Mic, Edit, Music, Send, Clock, Copy, and Cut.
-
-The icons are designed using SVG (Scalable Vector Graphics), which allows them to remain sharp and clear at any size without losing quality. A soft blue and white color theme gives the project a fresh, modern, and professional appearance, while the rounded shapes create a friendly and visually appealing interface.
+🎨 SVG Icons – Project Description
+💙 Modern & Colorful Design – Clean blue and white theme.
+🖼️ 20+ Useful Icons – Home, Search, Person, Cart, Heart, Mail, Music, and more.
+✨ Scalable Graphics – SVG icons stay sharp at any size.
+📱 User-Friendly – Perfect for websites, apps, and UI/UX projects.
+🎯 Simple & Consistent – Rounded shapes with an attractive visual style.
+🖌️ Easy to Customize – Colors, size, and styles can be easily changed.
 
 ✨ Key Features
 🎨 Attractive and colorful design
